@@ -1,0 +1,3 @@
+  SELECT * FROM RAM_PROD.crm_next;
+  
+  SELECT firstname, TYPE, emailid, contactno, IM_REQUEST_ID, IM_REQUEST_STATUS FROM RAM_PROD.crm_next;
